@@ -4,6 +4,8 @@
     <img src="https://github.com/benjamintd/codegame.cards/raw/master/public/icon-192.png" width="192" alt="Codegame - icon by freepik" />
 </p>
 
+This game is not affiliated with CGE, the editor of Codenames, which inspired Codegame.cards.
+
 ## An online version of the Codegame tabletop game
 
 Install and run:
